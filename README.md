@@ -12,7 +12,7 @@ I built a complete pipeline that:
 
 🧹 Cleans and transforms data using Python
 
-🗄 Loads structured data into PostgreSQL
+🗄 Loads structured data into PostgreSQL (Docker Image)
 
 📊 Develops interactive dashboards in Power BI
 
@@ -32,6 +32,8 @@ Power BI Dashboard
 PDF Executive Report
 
 🛠️ Tech Stack
+
+🐳 Docker
 
 🐍 Python (🐼 pandas, 💻 psycopg2)
 
